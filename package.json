@@ -1,0 +1,25 @@
+{
+  "name": "team-codingstandards",
+  "version": "1.0.0",
+  "description": "Coding Standards for PHP8/CI4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCYuchi/team-codingstandards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LCYuchi/team-codingstandards/issues"
+  },
+  "homepage": "https://github.com/LCYuchi/team-codingstandards#readme",
+  "devDependencies": {
+    "@zackad/prettier-plugin-twig": "^0.17.0",
+    "prettier": "^3.8.3"
+  }
+}
