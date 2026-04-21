@@ -2,3 +2,13 @@ vendor/
 public/assets/lib/
 *.min.js
 *.min.css
+
+# Twig
+app/Views/**/*.twig
+
+# Third-party libraries
+app/Libraries/fpdf/fpdf.css
+
+# CodeIgniter built-in files
+app/Views/errors/html/debug.css
+app/Views/errors/html/debug.js
