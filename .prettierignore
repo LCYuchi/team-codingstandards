@@ -1,5 +1,6 @@
 vendor/
 public/assets/lib/
+public/libraries/
 *.min.js
 *.min.css
 
@@ -8,6 +9,21 @@ app/Views/**/*.twig
 
 # Third-party libraries
 app/Libraries/fpdf/fpdf.css
+public/css/**/jquery.*.css
+public/js/**/jquery.*.css
+public/js/**/jquery*.js
+public/js/**/*-min.js
+public/css/**/thickbox.css
+public/js/thickbox*.js
+public/js/**/ajaxzip2.js
+public/js/datepicker-ja.js
+public/js/jkl-calendar.js
+public/js/fixed_midashi.js
+public/js/suggest.js
+public/js/DDSortTable.js
+public/js/DDTableRow.js
+public/js/yahoo-min.js
+public/js/yui-dom-patch.js
 
 # CodeIgniter built-in files
 app/Views/errors/html/debug.css
