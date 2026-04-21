@@ -1,6 +1,0 @@
-{
-  "src": ["app/"],
-  "tab": "    ",
-  "psr12": true,
-	"simplify-strings": true
-}
