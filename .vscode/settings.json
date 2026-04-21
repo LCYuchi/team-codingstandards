@@ -4,7 +4,7 @@
   "editor.rulers": [120],
 
   "[php]": {
-    "editor.defaultFormatter": "lkrms.pretty-php"
+    "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
   "[twig]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -14,5 +14,7 @@
   },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+
+  "php-cs-fixer.config": "path/to/subproject/.php-cs-fixer.php",
 }
